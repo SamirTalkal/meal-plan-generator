@@ -10,7 +10,7 @@ export default function HomePage() {
     <div className="px-4 py-8 sm:py-12 lg:py-16 max-w-7xl mx-auto">
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-emerald-400 to-emerald-600 text-white rounded-lg mb-12 p-8 text-center">
-        <h1 className="text-4xl font-bold mb-4">Personalized AI Meal Plans</h1>
+        <h1 className="text-4xl font-bold mb-4">Personalized AI Meal Plans by Samir</h1>
         <p className="text-xl mb-6">
           Let our AI do the planning. You focus on cooking and enjoying!
         </p>
